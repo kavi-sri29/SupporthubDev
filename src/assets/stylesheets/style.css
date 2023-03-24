@@ -1,0 +1,25 @@
+ @import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+body {
+  background-image: url('https://uat-supporthub.experian.co.uk/assets/images/1366-wlr-background.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: Lexend,Roboto, Helvetica Neue, sans-serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px;
+}
+.beta {
+  width: 100%;
+  height: 46px;
+  background-color: #702784;
+  color: #e9ecef;
+  margin-top: 18px;
+  padding-left: 58px;
+  font-size: 26px;
+  border: 2px solid white;
+
+}
